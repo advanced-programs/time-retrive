@@ -1,0 +1,65 @@
+// NOTICE: Must write the longer time expression before shorter expression.
+// e.g. today at 7pm
+(today|yesterday|tomorrow) at \d{1,2}(:\d{1,2})?\p{Blank}?(am|pm)?\b
+
+// e.g. today
+today|yesterday|tomorrow
+
+next month
+a month later
+last month
+a month ago
+next year
+last year
+past year
+
+// Remains to be today. 
+(earlier |later )?this (morning|noon|afternoon|evening)
+
+// Match a time interval.
+this (week|month|year)
+
+// e.g. sat 7 in the morning
+\b(monday|mon|tuesday|tue|wednesday|wed|thursday|thu|friday|fri|saturday|sat|sunday|sun) \d{1,2} in the morning
+
+// e.g. 6 in the morning
+\b\d{1,2} in the (morning|evening)
+
+// e.g. this tuesday
+this (monday|mon|tuesday|tue|wednesday|wed|thursday|thu|friday|fri|saturday|sat|sunday|sun)
+
+// e.g. last winter
+\blast (spring|summer|autumn|fall|winter)
+
+// e.g. last night
+\blast night\b
+
+// e.g. this second
+\bthis second\b
+
+// e.g. tuesday last week
+\b(monday|mon|tuesday|tue|wednesday|wed|thursday|thu|friday|fri|saturday|sat|sunday|sun) last week\b
+
+// e.g. last week tuesday
+\blast week (monday|mon|tuesday|tue|wednesday|wed|thursday|thu|friday|fri|saturday|sat|sunday|sun)\b
+
+// e.g. 5 months before now
+\b\d{1,2} (hour|day|week|month|year)(s?) ((before now)|ago|earlier)\b
+
+// e.g. 1 week hence
+\b\d{1,2} (hour|day|week|month|year)(s?) ((from now)|hence|later)\b
+
+// e.g. in 3 hours
+\bin \d{1,2} (hour|day|week|month|year)(s?)\b
+
+// e.g. january 5 at 7pm
+\b(january|jan|february|feb|march|mar|april|apr|may|june|jun|july|jul|august|aug|september|sep|october|oct|november|nov|december|dec) \d{1,2} at \d{1,2}(:\d{1,2})?\p{Blank}?(am|pm)?\b
+
+// e.g. 3rd wednesday in november
+\b(1st|2nd|3rd|(\d{1}th)) (monday|mon|tuesday|tue|wednesday|wed|thursday|thu|friday|fri|saturday|sat|sunday|sun) (in|this) (january|jan|february|feb|march|mar|april|apr|may|june|jun|july|jul|august|aug|september|sep|october|oct|november|nov|december|dec)\b
+
+// e.g. 4th day last week
+\b(1st|2nd|3rd|(\d{1}th)) day (this|last|next) week\b
+
+// e.g. summer
+spring|summer|fall|autumn|winter

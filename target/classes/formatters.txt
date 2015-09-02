@@ -1,0 +1,149 @@
+E, MMM d, yyyy h:m a z
+E, MMM d, yyyy h:m a
+E, MMM d, yyyy h a
+E, MMM d, yyyy hha
+E MMM d, yyyy h:m a
+E, MMM d, yyyy h:mma
+E, MMM d, yyyy, h:mma
+E, MMM. d, yyyy h:m a
+E, MMM d, yyyy 'at' h:m a
+E, MMM d, yyyy '@' h:m a
+E MMM d, yyyy '@' h:mm a
+E, MMM d, yyyy H:m
+E, MMM d, yyyy
+MMM d, yyyy h:mma 
+MMM d, yyyy h:mm a 
+MMM d, yyyy h:mm\u00a0a 
+MMM d, yyyy
+MMM d yyyy
+d MMM, yyyy h a 
+d MMM, yyyy 
+d MMM,yyyy h a 
+d MMM,yyyy 
+d MMM yyyy h:mm a 
+d MMM yyyy h a 
+yyyy-M-d hh:m
+yyyy-M-d
+h:m a (ddMMM) 
+ddMMM h:m a 
+E H:m
+h:m a
+k:mm
+h:m\u00a0a 
+E, ddMMM H:mm'N' 
+E, ddMMM h:mma 
+E, ddMMMyy h:m a 
+E, ddMMMyy 
+E., MMM d 
+E. MMM. d 
+E. MMM d, yyyy 
+E MMM d, yyyy
+dd-MMM-yyyy h:m a 
+dd-MMM-yyyy 
+yyyy-MM-dd'T'HH:mm:ss.SSSXXX 
+E, MMM d h:m a 
+E, MMM\u00a0dd h:mm\u00a0a 
+E, MMM d h:mma 
+E, MMM d ha 
+E, MMM d hha 
+E , MMM d ha 
+E , MMM d h:mma 
+E, MMM d'th' h:mma 
+E, MMM d'st' h:mma 
+E, MMM d'nd' h:mma 
+E, MMM d'rd' h:mma 
+E, MMM d'th' ha 
+E, MMM d'nd' ha 
+E, MMM d'rd' ha 
+E, MMM d 'at' ha 
+E, MMM d 'at' h:mma 
+E, d MMM yyyy h:m a 
+E, d MMM yyyy H:mm z 
+E, d MMM yyyy H:mm 
+E, d MMM, yyyy '@' HHmm 'hours' 
+E, d MMM, yyyy '@' HHmm 
+E, d MMM yyyy 
+E, d MMM yyyy 
+MMM d'st', yyyy hha 
+MMM d'th', yyyy hha 
+MMM d'nd', yyyy hha 
+MMM d'rd', yyyy hha 
+MMM d'st', yyyy h:mma 
+MMM d'th', yyyy h:mma 
+MMM d'nd', yyyy h:mma 
+MMM d'rd', yyyy h:mma 
+MMM d'st', yyyy 
+MMM d'th', yyyy 
+MMM d'nd', yyyy 
+MMM d'rd', yyyy 
+E - M/d/yyyy 
+E, MMM d'th' h:m a 
+E, MMM d'st' h:m a 
+E, MMM d'nd' h:m a 
+E, MMM d'rd' h:m a 
+E, MMM d'th' yyyy h:m a 
+E, MMM d'st' yyyy h:m a 
+E, MMM d'nd' yyyy h:m a 
+E, MMM d'rd' yyyy h:m a 
+E, MMM d'th' yyyy 
+E, MMM d'st' yyyy 
+E, MMM d'nd' yyyy 
+E, MMM d'rd' yyyy 
+E, MMM d'th' 
+E, MMM d'st' 
+E, MMM d'nd' 
+E, MMM d'rd' 
+E, M/d/yyyy h:m a z
+E, M/d/yy 
+E M/d/yy h:m a z 
+E M/d/yy 
+E MMM/d/yyyy h:m a 
+E MMM/d/yyyy h a 
+E MMM/d/yyyy HH:mm 
+E MMM/d/yyyy 
+E d/MMM/yyyy h:m a 
+E d/MMM/yyyy h a 
+E d/MMM/yyyy HH:mm 
+E d/MMM/yyyy 
+M/d/yy h:m a 
+M/d/yyyy h:mma 
+M/d/yyyy h:mm a 
+M/d/yy H:m 
+M/d/yy 
+M.d.yyyy
+h:mma MMM d, E 
+h:mm a
+E ha
+E
+ha
+E ddMMM h:mm a 
+E ddMMM h:mma 
+E ddMMMyy h:mm a 
+E ddMMMyy H:mm 
+E ddMMM hha 
+E ddMMM HH:mm'N' 
+E d MMM, yyyy h:m a 
+E d MMM yy h:m a 
+E d MMM yy H:m 
+Ed MMM yy HH:mm
+M/dd/yyyy
+dd/M/yyyy
+HH:mm'N' 
+MM dd h:m a 
+dd MMM yy - E h:m a 
+d MMM yyyy
+ddMMMyyyy h:mma 
+ddMMMyy 
+E, d MMM, yyyy h:m a 
+E, d MMM, yyyy h a 
+E, d MMM, yyyy H:m 
+MMM d yy h:m a 
+MMM dd
+M/dd
+MMM yyyy
+MMM
+E MMM d h:m a 
+E MMM d 
+E, MMM d 
+E d-MMM yyyy HH:mm
+yyyy
