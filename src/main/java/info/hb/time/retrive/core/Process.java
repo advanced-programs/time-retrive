@@ -1,7 +1,10 @@
 package info.hb.time.retrive.core;
 
+import info.hb.time.retrive.domain.MatchedTime;
+import info.hb.time.retrive.domain.TYPE;
+import info.hb.time.retrive.domain.TimeBundle;
 import info.hb.time.retrive.format.Formatter;
-import info.hb.time.retrive.io.IO;
+import info.hb.time.retrive.io.IOUtils;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -36,7 +39,7 @@ public class Process {
 
 	public void createDateBundles() {
 		for (MatchedTime time : matchedTimes) {
-			timeBundles.add(new TimeBundle(time.rawString, time.timeType, time.regex));
+			timeBundles.add(new TimeBundle(time.getRawString(), time.getTimeType(), time.getRegex()));
 		}
 	}
 
@@ -54,7 +57,7 @@ public class Process {
 
 	public void writeResult() {
 		for (TimeBundle timeBundle : timeBundles) {
-			IO.writeNormalizedTime(timeBundle);
+			IOUtils.writeNormalizedTime(timeBundle);
 		}
 	}
 

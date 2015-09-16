@@ -1,4 +1,4 @@
-package info.hb.time.retrive.core;
+package info.hb.time.retrive.domain;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -43,6 +43,12 @@ public class TimeBundle {
 
 	public String getRegex() {
 		return this.regex;
+	}
+
+	@Override
+	public String toString() {
+		return "TimeBundle [timeType=" + timeType + ", rawValue=" + rawValue + ", calendar=" + calendar
+				+ ", dateFormat=" + dateFormat + ", regex=" + regex + "]";
 	}
 
 }

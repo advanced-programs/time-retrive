@@ -51,3 +51,7 @@ We ran the test on WSJ articles `appointments.txt` provided by Jet and got 1168 
     sys     0m0.269s
 
 Thanks for your review!
+
+### 其他时间提取工具
+
+> 可以参考FudanNLP自然语言处理工具包里面的时间提取工具。

@@ -1,7 +1,7 @@
 package info.hb.time.retrive.format;
 
-import info.hb.time.retrive.core.TimeBundle;
-import info.hb.time.retrive.io.IO;
+import info.hb.time.retrive.domain.TimeBundle;
+import info.hb.time.retrive.io.IOUtils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -9,13 +9,18 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class Formatter {
+
+	private static Logger logger = LoggerFactory.getLogger(Formatter.class);
 
 	private List<SimpleDateFormat> formatters = new ArrayList<>();
 	private Calendar referenceTime;
 
 	public Formatter(String fileName, Calendar referenceTime) {
-		List<String> formatterStr = IO.readDateFormat(fileName);
+		List<String> formatterStr = IOUtils.readDateFormat(fileName);
 		for (String format : formatterStr) {
 			SimpleDateFormat formatter = new SimpleDateFormat(format);
 			formatter.setLenient(false);
@@ -34,7 +39,7 @@ public class Formatter {
 				return resultDate;
 			}
 		}
-		//System.out.println("- Can't parse this absolute time: " + timeBundle.getRawValue());
+		logger.error("- Can't parse this absolute time: {}", timeBundle.getRawValue());
 		return null;
 	}
 

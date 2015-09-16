@@ -1,6 +1,8 @@
 package info.hb.time.retrive.core;
 
-import info.hb.time.retrive.io.IO;
+import info.hb.time.retrive.domain.MatchedTime;
+import info.hb.time.retrive.domain.TYPE;
+import info.hb.time.retrive.io.IOUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,12 +15,12 @@ public class TimeExtract {
 	private List<String> relativeRegexs;
 
 	public TimeExtract() {
-		absoluteRegexs = IO.readRegex("TimeRegexAbsolute.txt");
-		relativeRegexs = IO.readRegex("TimeRegexRelative.txt");
+		absoluteRegexs = IOUtils.readRegex("TimeRegexAbsolute.txt");
+		relativeRegexs = IOUtils.readRegex("TimeRegexRelative.txt");
 	}
 
 	public List<MatchedTime> extractFile(String fileName, int linesNum) {
-		List<String> texts = IO.readArticle(fileName, linesNum);
+		List<String> texts = IOUtils.readArticle(fileName, linesNum);
 		List<MatchedTime> result = new ArrayList<>();
 		for (String text : texts) {
 			result.addAll(extractInput(text));

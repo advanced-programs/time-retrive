@@ -1,11 +1,11 @@
 package info.hb.time.retrive.demo;
 
 import info.hb.time.retrive.core.Process;
-import info.hb.time.retrive.core.TimeBundle;
+import info.hb.time.retrive.domain.TimeBundle;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -14,8 +14,8 @@ import java.util.List;
 
 public class Example {
 
-	final static String formatterFileName = "./time_Extraction/formatters.txt";
-	final static String trainingFile = "./time_Extraction/training.txt";
+	final static String formatterFileName = "formatters.txt";
+	final static String trainingFile = "training.txt";
 	// 05-06-2015 00:00 AM
 	static Calendar referenceTime = Calendar.getInstance();
 	static Process processer;
@@ -24,7 +24,8 @@ public class Example {
 		// Run the training data.
 		if (args.length == 1 && args[0].equals("training")) {
 			setUp("05-06-2015");
-			try (BufferedReader br = new BufferedReader(new FileReader(trainingFile))) {
+			try (BufferedReader br = new BufferedReader(new InputStreamReader(Thread.currentThread()
+					.getContextClassLoader().getResourceAsStream(trainingFile)));) {
 				int i = 0;
 				for (String line; (line = br.readLine()) != null;) {
 					i++;
@@ -49,7 +50,7 @@ public class Example {
 			processArticle(args[0]);
 		} else {
 			System.out.println("Error: need two parameters <article_path> <reference_time>");
-			System.out.println("e.g. run.sh ./test.txt 05-06-2015");
+			System.out.println("e.g. java Example.java test.txt 05-06-2015");
 		}
 	}
 

@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<!--微博评论箱使用-->
+     <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+     <title>奥委会副主席否认东京奥运会会徽抄袭_译名频道_《参考消息》官方网站</title>
+    <meta name="keywords" content="奥委会 东京奥运 会徽 抄袭" />
+    <meta name="Copyright" content="《参考消息》官方网站版权所有" />
+     <meta name="description" content="　“We have looked at this design and we don't think we have a problem.”(@参考消息)" id="des"/>
+     
+     <!--[if IE 7 ]><base target="_blank" /><![endif]-->
+<!--[if IE 7]><html lang="en" class="ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"><![endif]-->
+     <link href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/style.css" type="text/css" rel="stylesheet" rev="stylesheet" media="screen"  />
+     <link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/common.css" media="all" />
+     <link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/module.css" media="all" />
+     <link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/content.css" media="all" />
+     <link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/index0728.css" media="all" />
+     
+     <link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/slider.css" media="all">
+     <link type="text/css" rel="stylesheet" href="http://tjs.sjs.sinajs.cn/t3/style/css/common/card.css" />
+     <link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/common0728.css" media="all">
+     <script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/config.js"></script>
+     <script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/lib/jquery.js"></script>
+     <script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/lib/jquery.cookie.js"></script>
+   
+     <script type="text/javascript" src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/ylmarquee.js"></script>
+     <script type="text/javascript" src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/index.js"></script>
+      <script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/bd_hot.js"></script>
+<style>
+body > a{display:none;}
+.error{float: none; cursor: pointer;}
+</style>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?308b87570281daa02f0d31c085c39163";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script src="http://s4.cnzz.com/stat.php?id=5927868&web_id=5927868" language="JavaScript"></script><!--微博评论箱-->
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=1148914719" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/cmstop-common.js"></script>
+
+  <script type="text/javascript">
+    var contentid = '905024';// 文章ID
+    var title = "\u5965\u59d4\u4f1a\u526f\u4e3b\u5e2d\u5426\u8ba4\u4e1c\u4eac\u5965\u8fd0\u4f1a\u4f1a\u5fbd\u6284\u88ad";//文章标题
+    var topicid = '821130';// 评论主题
+    var context = '';//全文内容缓存
+    var content = '';//第一页内容缓存
+    var _IMG_URL = 'http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi';
+function getParameter(paraStr, url)
+{
+    var result = "";
+    //获取URL中全部参数列表数据
+    var str = "&" + url.split("?")[1];
+    var paraName = paraStr + "=";
+    //判断要获取的参数是否存在
+    if(str.indexOf("&"+paraName)!=-1)
+    {
+        //如果要获取的参数到结尾是否还包含“&”
+        if(str.substring(str.indexOf(paraName),str.length).indexOf("&")!=-1)
+        {
+            //得到要获取的参数到结尾的字符串
+            var TmpStr=str.substring(str.indexOf(paraName),str.length);
+            //截取从参数开始到最近的“&”出现位置间的字符
+            result=TmpStr.substr(TmpStr.indexOf(paraName),TmpStr.indexOf("&")-TmpStr.indexOf(paraName));  
+        }
+        else
+        {  
+            result=str.substring(str.indexOf(paraName),str.length);  
+        }
+    }  
+    else
+
+    {  
+        result="无此参数";  
+    }  
+    result.replace("&","");
+    return (result.split("=")[1]);  
+    //return (result.replace("&",""));  
+}
+
+var r = getParameter("fr",window.location.href);
+
+    if(((/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) && r!="pc") || r=="mb"){
+            window.location.href="http://m.cankaoxiaoxi.com/ym/column20150814/905024.shtml"+"?fr=mb";
+
+     }
+  </script>
+  <script type="text/javascript" src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/cmstop-imagezoom.js"></script>
+    <script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/fet.js"></script>
+<script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/repos.js"></script>
+<script type="text/javascript">fet.setAlias({IMG_URL: "http://img.cankaoxiaoxi.com/"})</script>
+         <script type="text/javascript">
+        $(document).ready(function(){
+          //收藏
+            $('#favor').attr('href',window.location.href);
+            //幻灯片调用
+        });
+
+        window.onscroll = function () {
+                     var winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+                      if(winScroll >= 700){
+                      $('#goTop').show();
+                    }else{
+                      $('#goTop').hide();
+                    }
+        }
+     </script>
+     <!--[if IE 6]>
+<script type="text/javascript">
+$(function(){
+  $(window).scroll(function(){
+      var st = $(document).scrollTop();
+        $('#window').css({
+          'position':'absolute',
+            'top':st + 'px'
+        });
+    });
+});
+</script>
+<![endif]-->
+
+<style>
+#topNav{position:fixed; top:0;}
+#header{margin-top:33px;}
+
+.key span{border:1px solid #DFDEDC; display:inline-block;}
+.key span a{display:block; padding:1px 5px; font-weight:normal; text-decoration:none;font-size:12px; background: none; color: #069;}
+.key span a:hover{background:none; color:#069;}
+.txt-focus {
+    height: 15px;
+    margin-left: 5px;
+    margin-top: 2px;
+    padding-left: 0;
+    width: 165px;
+}
+.search {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    cursor: pointer;
+    height: 28px;
+    left: 240px;
+    position: absolute;
+    top: 1px;
+    width: 60px;
+}
+.page li{height:22px; margin-top:10px;}
+.mar-b-10 ul li{margin-bottom:0px;}
+/***********************/
+body{font-family:"\5B8B\4F53", sans-serif;}
+.roll {
+    background: none repeat scroll 0 0 #F0F0F0;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    width: 640px;
+}
+.roll_tab {
+    background: url("http://img.ihlnews.com/templates/ihlnews/css/img_ihl/ico.png") no-repeat scroll 0 -456px rgba(0, 0, 0, 0);
+    display: block;
+    height: 30px;
+    padding-left: 12px;
+    width: 80px;
+}
+.roll_tab a {
+    color: #333333;
+}
+.roll div a, .roll ul span {
+    border-left: 1px solid #AFAFAF;
+    color: #4C4C4C;
+    display: block;
+    float: left;
+    line-height: 14px;
+    margin-top: 8px;
+    padding: 0 10px;
+}
+.roll ul li:first-child a, .roll ul span {
+    border: medium none;
+}
+.roll ul span {
+    padding: 0;
+}
+.bg-txt-focus {
+    background: url("http://upload.cankaoxiaoxi.com/2014/0605/1401954341392.png") no-repeat 0 0;
+    height: 30px;
+    margin-top: 0;
+    width: 300px;
+}
+.txt-focus {
+    height: 22px;
+    line-height: 22px;
+    margin-top: 4px;
+    width: 230px;
+}
+.title_border{border-top: 1px solid #aaa;}
+.crumb a{color:#666; line-height:34px;}
+.inner{padding:0 20px 10px 5px; border-bottom:1px solid #aaa;}
+.bg-content{border-top:none; border-bottom:none; background:none;}
+.h2{line-height:56px;}
+.lh-36{line-height:36px;}
+p.cont-detail{border-left:none; border-right:none; border-top:1px dashed #ccc; border-bottom:1px dashed #ccc;}
+.cont-detail{ padding:10px 0; line-height:30px;}
+.fs-small, .fs-small p{ line-height:30px; font-size:16px; color:#000;margin-top: 5px; font-family: "\5B8B\4F53", sans-serif;}
+.bd-dashed{border-top:1px dashed #ccc;}
+.key{color:#c01723; font-size:18px; margin-top:8px; line-height:40px;}
+.key span a{font-size:14px; line-height:25px; padding:0 10px;}
+.key span{border:none; }
+.item{background:url("http://upload.cankaoxiaoxi.com/2014/0807/1407382264481.png") no-repeat 15px 10px; padding-left:30px;}
+.bg_gray{ background:#eee; padding:15px 10px;}
+.img_item{width:600px; margin-left: 15px;}
+.img_item li{width:140px; margin:0 10px 13px 0; float:left; font-size:12px;height:150px;}
+.img_item li a span{margin-top:3px; color:#000; line-height:22px;display: block;}
+.mod-title-a .h2{ font-size:18px; background:none;}
+.gray_title h2{ line-height:42px;}
+.gray_title{ line-height:42px; border-top:1px solid #aaa;}
+.rank-list-a li{ background:none;}
+.rank-list-a a{color:#000;}
+.rank-list a span{line-height:24px; color:#000; display:block; margin:5px 0; font-size:14px; }
+.tuijianimg{margin-bottom:15px;}
+.tuijianimg a{display:block;}
+.tuijianimg h3{font-size:16px; color:#333; line-height:25px; width:200px;}
+.rank #tab-title-1{border-bottom:none;}
+.rank #tab-title-1 .tabs-focus{ background:url("http://upload.cankaoxiaoxi.com/2014/0606/1402023461506.png") no-repeat center bottom;}
+.rank-list-a a{font-size:13px; color:#333;}
+.rank-list-a li{ line-height:30px;}
+
+.tjad a{color:#333;}
+h3 a{color:#000;}
+.cont-mood{border:none;}
+.w-635{width: 635px;}
+.headNav ul{background: url("http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/nav_2.png") right center no-repeat; float: left; width:120px; overflow:hidden;}
+.headNav ul.end{background: none; padding-right: 0;}
+.headNav li{font-size: 12px; overflow:hidden;zoom:1; width:148px;}
+.headNav li a{color:#333; line-height: 20px; padding: 0 9px; display: block; float: left; height:20px;}
+}
+
+.w-300 {
+width: 300px;
+overflow: hidden;
+}
+.w-635 {
+width: 635px;
+overflow: hidden;
+}
+.cont-detail p img{margin:0 auto 0;}
+.ssmtlist li {margin-right: 10px;line-height: 22px;}
+.ssmtlist li, .ssmtlist li{line-height: 26px;width: 150px;float: left;}
+.fz-25{font-size:25px;}
+.w-610{width:610px;}
+.sens{font-family: "\5B8B\4F53", sans-serif;}
+
+.page a{border: none; font-size: 14px; color: #999; width: 25px; height: 27px; display: block; padding: 0; margin:0 15px 0 0; line-height: 25px; font-family: '\5FAE\8F6F\96C5\9ED1';}
+.page a.now, .page a:hover{color: #fff; background: url(http://upload.cankaoxiaoxi.com/2014/0808/1407484407414.png) 0 0 no-repeat; font-weight: normal;}
+.page li{height: 27px;}
+.page #prev_page, .page #next_page{color:#333; width:75px;}
+.page #prev_page:hover, .page #next_page:hover{background: url(http://upload.cankaoxiaoxi.com/2014/0808/1407492201720.png) 0 0 no-repeat; color: #fff;}
+.fs-small img{max-width:500px;}
+.det p{padding-bottom: 15px;}
+.fs-small p span{line-height: 22px; line-height:22px; margin-bottom:10px; }
+#error_btn{border: none; background: url(http://upload.cankaoxiaoxi.com/2014/1011/1413014435664.png) no-repeat 4px center; color:#2b5c83;}
+.img_item img, .rank-list li img{border: 1px solid #ccc; box-sizing: border-box; -moz-box-sizing:border-box;}
+</style>
+<base target="_blank" />
+</head>
+
+<body>
+<a href="#"><img src="http://count.cankaoxiaoxi.com/count.png?contentid=905024" alt="count"></a>
+<!-- ******************* start header   *********************** -->
+<!--顶部广告 end-->
+
+<div class="column ov">
+  <div class="hr-h20"></div>
+  <!--logo-->
+  <div class="f-l">
+
+<a href="http://www.cankaoxiaoxi.com/" title="参考消息"><img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/logo0728.png" width="150" height="60" alt="参考消息"/></a>
+
+</div>
+<!-- 广告位：首页顶部广告 -->
+<div class="f-r">
+  <div class="headNav ov">
+    <!--导航-->
+    <style>
+.headNav {
+width: 800px;
+}
+.headNav ul.end {
+width: 175px;
+}
+.headNav ul.end li {
+width: 175px;
+}
+.headNav ul {
+width: 159px;
+padding: 0 0 0 35px;
+}
+</style>
+<ul>
+	<li class="ov">
+		<strong><a href="http://china.cankaoxiaoxi.com/" target="_blank">中国</a></strong> 
+        <a href="http://www.cankaoxiaoxi.com/china/szyw/" target="_blank">时事</a> 
+		<a href="http://www.cankaoxiaoxi.com/china/shwx/" target="_blank">社会</a> 
+	</li>
+
+	<li>
+		<strong><a href="http://world.cankaoxiaoxi.com/" target="_blank">国际</a></strong> 
+		<a href="http://www.cankaoxiaoxi.com/world/ytxw/" target="_blank">亚太</a> 
+		<a href="http://www.cankaoxiaoxi.com/world/hqbl/" target="_blank">趣闻</a> 
+	</li>
+
+	<li>
+		<strong><a href="http://mil.cankaoxiaoxi.com/" target="_blank">军事</a></strong> 
+		<a href="http://www.cankaoxiaoxi.com/mil/zbdt/" target="_blank">周边</a> 
+		<a href="http://www.cankaoxiaoxi.com/mil/wqzb/" target="_blank">装备</a> 
+	</li>
+</ul>
+
+<ul>
+	<li>
+		<strong><a href="http://photo.cankaoxiaoxi.com/" target="_blank">图片</a></strong> 
+		<a href="http://photo.cankaoxiaoxi.com/tstx/" target="_blank">图说天下</a>
+	</li>
+
+	<li>
+		<strong><a href="http://finance.cankaoxiaoxi.com/" target="_blank">财经</a></strong> 
+		<a href="http://www.cankaoxiaoxi.com/finance/sygs/" target="_blank">商业公司</a> 
+	</li>
+
+	<li>
+		<strong><a href="http://column.cankaoxiaoxi.com/" target="_blank">评论</a></strong> 
+		<a href="http://column.cankaoxiaoxi.com/g/china/" target="_blank">海外看中国</a> 
+	</li>
+</ul>
+
+<ul>
+	<li>
+		<strong><a href="http://science.cankaoxiaoxi.com/" target="_blank">科技</a></strong> 
+		<a href="http://www.cankaoxiaoxi.com/science/tsfx/" target="_blank">探索</a> 
+		<a href="http://www.cankaoxiaoxi.com/science/ITyj/" target="_blank">IT</a> 
+	</li>
+
+	<li>
+		<strong><a href="http://fashion.cankaoxiaoxi.com/" target="_blank">时尚</a></strong> 
+		<a href="http://www.cankaoxiaoxi.com/fashion/xc/" target="_blank">秀场</a>
+		<a href="http://www.cankaoxiaoxi.com/fashion/sp/" target="_blank">尚品</a> 
+	</li>
+
+	<li>
+		<strong><a href="http://ent.cankaoxiaoxi.com/" target="_blank">娱乐</a></strong> 
+		<a href="http://www.cankaoxiaoxi.com/ent/xw/" target="_blank">星闻</a> 
+		<a href="http://www.cankaoxiaoxi.com/ent/ys/" target="_blank">影视</a> 
+	</li>
+</ul>
+
+<ul class="end">
+	<li>
+        <a href="http://www.cankaoxiaoxi.com/s/huati/" target="_blank">锐参考</a>
+        <a href="http://www.cankaoxiaoxi.com/tuwen/" target="_blank">图闻</a>
+        <a href="http://www.cankaoxiaoxi.com/column/sytd/" target="_blank">双语阅读</a>
+	</li>
+
+	<li>
+         <a href="http://www.cankaoxiaoxi.com/column/cartoon/" target="_blank">漫画</a>
+          <a href="http://finance.cankaoxiaoxi.com/company.shtml" target="_blank" style="margin-left:10px;padding-right:0">外媒眼中的中国企业</a>
+	</li>
+
+	<li>
+        
+        <a href="http://ihl.cankaoxiaoxi.com/" target="_blank" >国际先驱导报</a>
+	</li>
+</ul>
+    <!--导航-->
+  </div>
+</div>
+</div> 
+<script type="text/javascript">
+  $(document).ready(function() {
+
+    if ($.cookie(COOKIE_PRE+'auth')) {
+      $('#login_status').show();
+      var username = $.cookie(COOKIE_PRE+'username');
+      if(!username) username = $.cookie(COOKIE_PRE+'rememberusername');
+      $('#login_status em').html(username);
+    } else {
+      $('#logout_status').show();
+    }
+  });
+  </script>
+<style>
+.bd-r-gray{border-right:1px dashed #555;}
+.pad-r-10{padding-right:10px;}
+.tjad a{display:block; font-size:12px; line-height:21px;}
+.redline{position:absolute; right:6px; top:-4px;}
+</style>
+<div class="hr-h10"></div>
+<div class="column ov bg-white" id="recommend" style="width:958px; padding-top:4px;">
+
+<ul class="per33 tuijian ov" style="overflow:visible;border:1px solid #aaa;height:80px;">
+  <li style="width:317px; padding:10px 0 10px 10px;border-right:1px solid #aaa;">
+    <div class="img-summary-a ov">
+        <a href="http://www.cankaoxiaoxi.com/s/erzhanzhanshu/zhanluehongzha" title="解码二战战术之战略轰炸的秘密" target="_blank" >
+    <img src="http://upload.cankaoxiaoxi.com/2015/0818/1439858915541.png" style="margin-right:6px;" width="80" class="f-l thumb" height="60" alt="解码二战战术之战略轰炸的秘密"/>
+    </a>  
+    <div class="f-l">
+     <h3 class="h3 lh-22 fz-14 b"><a href="http://www.cankaoxiaoxi.com/s/erzhanzhanshu/zhanluehongzha" target="_blank">解码二战战术之战略轰炸的秘密</a></h3> 
+    <p class="cor333 two-line" style="height:38px;width:225px;"><span>对德战略轰炸，美军损失4000多架轰炸机，英军则有5.5万机组人员...</span><a href="http://www.cankaoxiaoxi.com/s/erzhanzhanshu/zhanluehongzha" title="阅读全文" class="underline-no" target="_blank"><em class="arrow">&gt;&gt;</em></a></p>
+    </div>
+        </div>
+  </li>
+  <li style="width:317px; padding:10px 0 10px 10px;border-right:1px solid #aaa;">
+    <div class="img-summary-a ov">
+        <a href="http://www.cankaoxiaoxi.com/s/FBKZ/" title="特别策划：父辈的抗战" target="_blank" >
+    <img src="http://upload.cankaoxiaoxi.com/2015/0703/thumb_80_60_1435926493611.jpg" style="margin-right:6px;" width="80" class="f-l thumb" height="60" alt="特别策划：父辈的抗战"/>
+    </a>  
+    <div class="f-l">
+     <h3 class="h3 lh-22 fz-14 b"><a href="http://www.cankaoxiaoxi.com/s/FBKZ/" target="_blank">特别策划：父辈的抗战</a></h3> 
+    <p class="cor333 two-line" style="height:38px;width:225px;"><span>参考消息报社与新华社解放军分社联合推出特别策划：“父辈的抗战...</span><a href="http://www.cankaoxiaoxi.com/s/FBKZ/" title="阅读全文" class="underline-no" target="_blank"><em class="arrow">&gt;&gt;</em></a></p>
+    </div>
+        </div>
+  </li>
+
+<li style="width:280px;padding:10px 5px 10px 15px; background:#f0f2f5; height:60px; position:relative;" class="tjad">
+    <a href="http://www.qianyuangx.com/xixue.aspx?one=3&two=16" title="北大西学：构建理性思维，究天下大事本质" target="_blank" >北大西学：构建理性思维，究天下大事本质</a>
+    <a href="http://www.cankaoxiaoxi.com/china/20150427/758395.shtml" title="参考消息网招聘策划编辑、军事编辑和图片编辑等" target="_blank" >参考消息网招聘策划编辑、军事编辑和图片编辑等</a>
+    <a href="http://www.cankaoxiaoxi.com/science/20150811/900481.shtml" title="解放日报：发行量最大的报纸怎么玩微信" target="_blank" >解放日报：发行量最大的报纸怎么玩微信</a>
+<img src="http://upload.cankaoxiaoxi.com/2014/0605/1401936299355.png" class="redline" alt="ad">
+  </li>
+</ul>
+
+</div>
+
+<div class="column ov mar-t-15" style="overflow:visible;">
+   <span class="f-r"  style="position:relative; overflow:visible;">
+      <div id="chinaso_search"></div>
+    
+  </span>
+  
+  <div class="lh-37 f-l w-640 roll"><span class="f-l roll_tab"><a href="http://www.cankaoxiaoxi.com/roll/" style="color:#666;">滚动新闻</a></span>
+    <div class="f-l ov h-37 scroll-totop">
+        <ul class="new-slider" id="scroll-wrap">
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/mil/20150818/908740.shtml" title="涨姿势！中国海军舰艇命名规则(高清组图)"> 涨姿势！中国海军舰艇命名规则(高清组图)</a> <span class="cor999">9:28</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/mil/20150818/908739.shtml" title="外媒:菲律宾空军接收10架武装直升机 可对海攻击"> 外媒:菲律宾空军接收10架武装直升机 可对海攻击</a> <span class="cor999">9:27</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/world/20150818/908737.shtml" title="境外媒体：曼谷或加强对游客安检 仍值得去旅游"> 境外媒体：曼谷或加强对游客安检 仍值得去旅游</a> <span class="cor999">9:26</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/finance/20150818/908697.shtml" title="国际油价刷新六年新低国内油价将迎“五连跌”"> 国际油价刷新六年新低国内油价将迎“五连跌”</a> <span class="cor999">9:20</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/tw/20150818/908682.shtml" title="作家三毛亲笔明信片展出"> 作家三毛亲笔明信片展出</a> <span class="cor999">9:20</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/tw/20150818/908681.shtml" title="花莲选出“太阳之星”"> 花莲选出“太阳之星”</a> <span class="cor999">9:20</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/world/20150818/908704.shtml" title="美媒：泰国王位继承在即 太子罕见骑车亮相"> 美媒：泰国王位继承在即 太子罕见骑车亮相</a> <span class="cor999">9:11</span> </li>
+                    <li class="mar-r-15"><a href="http://www.cankaoxiaoxi.com/finance/20150818/908679.shtml" title="新兴市场货币创十五年来最长跌势抛售潮继续上演"> 新兴市场货币创十五年来最长跌势抛售潮继续上演</a> <span class="cor999">9:10</span> </li>
+                </ul>
+      
+    </div>
+    <style type="text/css">
+                .scroll-d {width:300px; overflow:hidden;  height:40px; valign:middle;}
+                .scroll-totop {width:535px !important; }
+                .scroll-d li {display:inline; margin-left:40px;}
+    </style>
+    
+    <script>
+    $('.scroll-totop').YlMarquee({
+        visiable: 1, 
+        vertical: false,
+        step:1, 
+        textMode: 1
+    });
+    
+    </script>
+  </div>
+
+</div>
+ 
+<!-- *******************  end header   *********************** -->
+
+<div class="column mar-t-20">
+       <div class="col-l w-635 title_border relative">
+        <div class="crumb"> <a href="http://www.cankaoxiaoxi.com/">首页</a>&gt;<a href="http://ym.cankaoxiaoxi.com/">译名频道</a>&gt;<a href="http://www.cankaoxiaoxi.com/column/sytd/">双语天地</a>&gt;<span>正文</span> </div>
+    <div class="bg-content"> 
+           <!-- 面包屑 -->
+           
+           
+               <h1 class="h2 fz-25 YH">奥委会副主席否认东京奥运会会徽抄袭</h1>
+
+                <span class="cor666 mar-r-10 lh-36" id="pubtime_baidu">2015-08-14 14:24:00</span> 
+                <span id="source_baidu" class="mar-r-10 lh-36">来源：<a href="http://www.cankaoxiaoxi.com/" target="_blank">参考消息网</a></span>
+                                <span id="editor_baidu" class="lh-36">责任编辑：朱方雨</span>
+               <div class="hr-h5"></div>
+                
+                
+               <p class="cont-detail fz-14 cor-333">
+                <span style="display:block;text-indent:2em;" class="">核心提示：　“We have looked at this design and we don't think we have a problem.”</span>
+              </p>
+              
+              <div class="inner">
+                                                                                     <!-- 文章内容 -->
+               <div class="fs-small cont-detail det article-content ov" id="ctrlfscont"> <p style="text-align: center; text-indent:0;" style="text-align: center; text-indent: 0;"><a href="http://www.cankaoxiaoxi.com/" target="_self"><img src="http://upload.cankaoxiaoxi.com/2015/0814/1439532620186.jpg"></a></p><p style="text-align: center;font-size:12px;line-height:12px; padding-bottom:0; margin-top:-10px;"><a href="http://www.cankaoxiaoxi.com/" target="_self" style="color:#f00">点击图片进入下一页</a></p><p>&ldquo;We have looked at this design and we don't think we have a problem.&rdquo;</p><div class="f-l" id="bdad" style="padding:15px 15px 15px 0; margin-right:15px;"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "931636";</script><script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div><p>&ldquo;我们已经核对过这一设计，认为不存在任何问题。&rdquo;（法新社）</p><p>&mdash;&mdash;国际奥委会副主席约翰&middot;科茨认为2020年东京奥运会会徽设计不存在抄袭问题。东京奥运会会徽近日发布，却被指抄袭了比利时设计师奥利维耶&middot;德比为列日市一家剧院设计的标志。他的律师已经向国际奥委会发去了抗议信。东京奥组委和国际奥委会则认为，德比的设计并不受法律保护。图为德比展示他的设计与东京奥运会徽。</p> </div>
+               <!-- @end 文章内容 -->
+                                                                                    <!-- 分页 --> 
+                              <div id="leftShare"></div>
+            <!--精编区块 start-->
+                                                <!--精编区块 end-->
+            <!-- @end 文章内容 -->
+            <div>
+                            <!--<p class="fz-16 lh-30 mar-t-15" style="text-indent:2em;"><strong>更多“奥委会”相关新闻，微信搜索关注公众号“参考消息”（ID：ckxxwx），外国媒体每日报道精选，随时随地想看就看，还有会员福利等着您哦。</strong></p>-->
+            <!--<p class="fz-16 lh-30 mar-t-15" style="text-indent:2em;"><strong>2015《参考消息》订阅季火热进行中！微信关注公众号“参考小秘书”（ID：ckxxxms），快捷订报，更有百万话费、iPad mini等您拿哦。</strong></p>-->
+            </div>
+                           <!--横栏列表广告580*90-->
+             
+
+             <!--横栏图片广告580*140-->
+            
+               
+                <div class="bd-dashed w-610 mar-t-10"></div>
+                 
+           <div class="key ov w-610" style="margin-top:15px; line-height:20px;">
+           <span class="f-l lh-26">标签：</span>
+           <div class="f-r" style="width:555px;">
+             <span class="f-l"><a href="javascript:;" style="cursor:default; color:#333;" title="" target="_self">法新社</a> </span> 
+            </div>
+          </div>
+                    <div  class="mar-t-15 fz-14 mar-b-5 cor666 w-610 sens">凡本网注明“来源：参考消息网”的所有作品，未经本网授权，不得转载、摘编或以其他方式使用。更多境外媒体报道，请见《参考消息》官方网站首页。网址 <a href="http://www.cankaoxiaoxi.com" style="color:#0066CC;">www.cankaoxiaoxi.com >></a></div>
+
+<div class="ov mar-t-20"> 
+  
+  <div style="width:310px;" class="f-l">
+    <script src="http://static.connect.renren.com/js/share.js" type="text/javascript"></script> 
+    <a href="javascript:;" onclick="copyToClipboard(window.location.href);return false" class="copy bg-ico mar-r-20">复制链接</a> <a href="http://app.cankaoxiaoxi.com/print.php?contentid=905024" title="" class="print bg-ico">打印</a> <a href="" id="favor" onclick="javascript:window.external.addFavorite(window.location.href,'奥委会副主席否认东京奥运会会徽抄袭');" class="favorite bg-ico" rel="sidebar">收藏</a>
+    <!--<span id="error_btn" class="mar-l-20 error">纠错</span>-->
+  </div>
+
+<div class="bshare-custom icon-medium f-r"><div class="bsPromo bsPromo2"></div><a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到豆瓣" class="bshare-douban" href="javascript:void(0);"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=9a647632-7232-4b6c-8a18-2c716e662745&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+</div>
+</div>
+<div class="hr-h15"></div>
+
+<div class="bg_gray sens">
+   
+      <!--- start mood--> 
+              <div id="cyEmoji" role="cylabs" data-use="emoji"></div>
+
+        <script type="text/javascript" charset="utf-8" src="http://changyan.itc.cn/js/??lib/jquery.js,changyan.labs.js?appid=cyrlcqflH"></script>
+              <!--- end mood-->
+
+  
+          <!--评论-->
+                   
+          <div id="SOHUCS" sid="905024"></div>
+          <script>
+
+            if(377==185){
+                var _config = { categoryId : '237513.1410231127'};
+
+            }else if(377==1){
+                var _config = { categoryId : '237513.1409907062'};
+
+            }else if(377==2){
+                var _config = { categoryId : '248932.1421291111'};
+
+            }else if(377==3){
+                var _config = { categoryId : '248932.1428886856'};
+
+            }else if(377==14){
+                var _config = { categoryId : '248932.1409565541'};
+
+            }else if(377==29){
+                var _config = { categoryId : '248932.1421291348'};
+
+            }else if(377==36){
+                var _config = { categoryId : '237513.1409907789'};
+
+            }else if(377==328){
+                var _config = { categoryId : '248932.1409908524'};
+
+            }else if(377==329){
+                var _config = { categoryId : '248932.1409908563'};
+
+            }else if(377==309){
+                var _config = { categoryId : '237513.1409564959'};
+
+            }else if(377==252){
+                var _config = { categoryId : '248932.1409565555'};
+
+            }else if(377==312){
+                var _config = { categoryId : '237513.1409565449'};
+
+            }
+
+            if(377==1 || 377==36 || 377==312 || 377==185 || 377==250){
+                (function(){
+                  var appid = 'cyrlcqflH',
+                  conf = 'prod_2ef18f1ba5d103d4b1d914740d2e02d2';
+                  var doc = document,
+                  s = doc.createElement('script'),
+                  h = doc.getElementsByTagName('head')[0] || doc.head || doc.documentElement;
+                  s.type = 'text/javascript';
+                  s.charset = 'utf-8';
+                  s.src =  'http://assets.changyan.sohu.com/upload/changyan.js?conf='+ conf +'&appid=' + appid;
+                  h.insertBefore(s,h.firstChild);
+                  window.SCS_NO_IFRAME = true;
+                })()
+            }else{
+            	(function(){
+                  var appid = 'cyrlLPAR1',
+                  conf = 'prod_e559c86dea56b3aab0071f39a18035be';
+                  var doc = document,
+                  s = doc.createElement('script'),
+                  h = doc.getElementsByTagName('head')[0] || doc.head || doc.documentElement;
+                  s.type = 'text/javascript';
+                  s.charset = 'utf-8';
+                  s.src =  'http://assets.changyan.sohu.com/upload/changyan.js?conf='+ conf +'&appid=' + appid;
+                  h.insertBefore(s,h.firstChild);
+                  window.SCS_NO_IFRAME = true;
+                })()
+            }
+            
+          </script> 
+        
+                       <div class="mar-t-10 bg-white">
+    <script type="text/javascript" >BAIDU_CLB_SLOT_ID = "968494";</script>
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+    </div>
+    </div>
+
+   </div> 
+
+   <!--左侧悬浮-->
+   <style>
+   .relative{position: relative;}
+   #leftScroll{position: fixed; left: 50%; bottom: 0; height: 38px; border: 1px solid #d2d2d2; margin-left: -480px; width: 635px; background: #eee; display: none; z-index: 1000;}
+   .ltoindex{width: 305px; height: 68px; background: url(http://upload.cankaoxiaoxi.com/2014/1219/1418959953623.png) 0 6px no-repeat; margin-left: 30px;}
+   #leftScroll .share{
+      padding: 0px 44px; margin: 9px 0;
+      border-right:1px solid #d2d2d2;
+      width: 180px;
+   }
+   </style>
+   <div id="leftScroll">
+      <div class="share f-l">
+          <div class="bshare-custom icon-medium f-r"><div class="bsPromo bsPromo2"></div><a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到豆瓣" class="bshare-douban" href="javascript:void(0);"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a></div>
+      </div>
+
+      <a href="http://www.cankaoxiaoxi.com?toindex=3" class="ltoindex f-l" target="_blank"></a>
+   </div>
+</div>
+       <!-- w-670 end --> 
+       <!-- *******************  start 右侧   *********************** --> 
+       <div class="col-r w-300 sens">
+
+
+      
+
+            <!--精品推荐-->
+           <div class="mar-t-20 YH">
+              <div class="gray_title ov">
+                        <h2 class="fz-16 hottt tt_bg pad-lr-10 f-l" style="padding-left:5px;">精品推荐</h2> 
+                </div>
+                <div class="tuijianimg mar-t-15 ov">
+                  <a href="http://www.cankaoxiaoxi.com/tuwen/" title="" class="ov f-l" target="_blank">
+                      <img src="http://upload.cankaoxiaoxi.com/2014/0618/1403057090719.jpg" width="90" height="60" alt="图闻">
+                     </a>
+                                          <a href="http://www.cankaoxiaoxi.com/s/SMTG" class="f-r" target="_blank">
+                        <h3>“双面贪官”的虚伪人生</h3>
+                    </a>
+                                    </div>
+                <div class="tuijianimg ov">
+                  <a href="http://www.cankaoxiaoxi.com/s/huati/" title="" class="ov f-l" target="_blank">
+                      <img src="http://upload.cankaoxiaoxi.com/2014/0618/1403056757252.png" class="f-l" width="90" height="60" alt="锐参考">
+      
+                    </a>
+                                          <a href="http://www.cankaoxiaoxi.com/rui/wumaxiang" class="f-r" target="_blank">
+                        <h3>“无妈乡”的苦难循环</h3>
+                    </a>
+                                    </div>
+                <div class="tuijianimg ov">
+                    <img src="http://upload.cankaoxiaoxi.com/2014/0618/1403057107185.jpg" class="f-l" width="90" height="60" alt="环球调查">
+ 
+                                         <a href="http://www.cankaoxiaoxi.com/survey/brand" class="f-r" target="_blank">
+                        <h3>世界品牌启示录</h3>
+                    </a>
+                                    </div>
+           </div>
+                      <!--焦点图广告5-->
+           
+                        
+          <div class="hr-h10"></div>
+
+           <!-- 点击排行榜-切换 -->
+            <div class="mod rank mar-t-15">
+
+                <div class="gray_title ov">
+                  <div class="">
+                          <h2 class="fz-16 hottt tt_bg pad-lr-10 f-l" style="padding-left:5px;">排行榜</h2> 
+                            <ul class="ov f-r" id="tab-title-1">
+                              <li style="width:75px;"><a href="http://www.cankaoxiaoxi.com/sort/" title="" class="tabs-focus">24小时</a></li>
+                              <li style="width:58px;"><a class="" href="http://www.cankaoxiaoxi.com/sort/" title="">一周</a></li>
+                              <li style="width:58px;"><a class="" href="http://www.cankaoxiaoxi.com/sort/" title="">一月</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                              <div class="bd" id="tab-cont-1">
+              	                	<div>
+                 <ul class="rank-list-a">
+                                                         
+                       </ul>
+                    </div>
+                    <div style="display:none">
+                        <ul class="rank-list-a">
+                                               <li><em class="bgred">1</em><a href="http://ym.cankaoxiaoxi.com/2015/0813/903891.shtml" title="译名室：外文译名的“国家队”">译名室：外文译名的“国家队”</a></li>                            
+                                             </ul>
+                    </div>
+                    <div style="display:none">
+                        <ol class="rank-list-a">
+                                               <li><em class="bgred">1</em><a href="http://ym.cankaoxiaoxi.com/2015/0813/903891.shtml" title="译名室：外文译名的“国家队”">译名室：外文译名的“国家队”</a></li>                            
+                                             </ol>
+                    </div>
+                        </div>
+             </div>
+           <div class="hr-h10"></div>
+                      <!--焦点图广告6-->
+           
+
+            <div class="hr-h10"></div>
+            
+<!-- 85307：正文页擎天柱 -->
+          
+                      
+        </div>
+       <!-- *******************  end 右侧   *********************** --> 
+       
+     </div>
+
+<!--纠错框 start-->
+<style>
+.error_box{position: absolute;width:500px; height:277px; left: 50%; margin-left: -320px; top: 300px; background: url(http://upload.cankaoxiaoxi.com/2014/1010/1412923710718.png) 0 0 no-repeat; padding: 50px 70px 68px;  display: none;}
+.comment-form textarea{width: 478px; height: 145px; background: none;}
+.btn-post{width: 90px; height: 30px; text-align: center; line-height: 28px; background: #959595;font-size: 14px; color: #fff;margin-right: 8px;border: none;}
+.int-post{width: 492px;}
+.int-post div{width: 235px; line-height: 21px; border: 1px solid #bfbfbf; padding: 6px 0;}
+.int-post label{font-size: 14px; color: #666; padding: 0 15px; border-right: 1px solid #dcdcdc;}
+.int-post input{width: 172px; height: 21px; padding: 0;border: none;  font-size: 14px;}
+.error{float: none; cursor: pointer;}
+.error_box .close{position: absolute; width: 20px; height: 20px; background: url(http://upload.cankaoxiaoxi.com/2014/1011/1413011226908.png) 0 0 no-repeat; top: 55px; right: 65px; opacity: 0.5; filter:alpha(opacity=50);}
+
+</style>
+<div class="error_box">
+    <span class="close"></span>
+    <!--template 'comment/comments.html'-->
+</div>
+<!--纠错框 end-->
+
+<div class="hr-h10"></div>
+
+<script type="text/javascript">
+$('#error_btn').click(function(){
+    $('.error_box').show();
+    var st = document.documentElement.scrollTop || document.body.scrollTop;//滚去的高度
+    $('.error_box').css('top', st+300+'px');
+});
+$('.error_box .close').click(function(){
+    $('.error_box').hide();
+});
+
+window.onload = function(){
+    document.title = title;
+
+    if(document.body.clientWidth <=1090){
+        $('.scrollBtn').css('margin-left',"420px");
+    }
+    $(window).resize(function(){
+         if(document.body.clientWidth <=1090){
+            $('.scrollBtn').css('margin-left',"420px");
+         }else{
+            $('.scrollBtn').css('margin-left',"480px");
+         }
+    });
+
+    //微信鼠标滑过变底色
+    /*
+        $('.weixin').hover(function(){
+              $(this).css('background', 'url(http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/bg_red.png)');
+        },function(){
+              $(this).css('background', 'url(http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/wx_bg.png)');
+        });
+        $('.wx_close').click(function(){
+              $('.weixin').hide();
+        });
+ */
+        //控制收藏提示显示
+        $('#tShare').mouseover(function(){
+                $(this).attr('title','收藏本站');
+        });
+}
+
+        $(document).ready(function(){
+        //幻灯片调用
+        $('#huan').css("width",'260');
+        $('#huan').css("height",'156');
+        $('#suo').css("width",'56');
+        $('#suo').css('height','33');
+
+     });
+        
+        </script> 
+<script type="text/javascript">
+   /* *********切换**************/
+   function cmstopTabs( o ){
+    var tit = $(o['title']), cont = $(o['cont']),tabsty = o['tabStyle'];
+    var tits = tit.find('li a'), conts = cont.find('>div');
+      tits.mouseover(function( ){
+         var index = tits.index($(this));
+         $(this).addClass(tabsty).parent().siblings().find('a').removeClass(tabsty);
+         $(conts[index]).show().siblings().hide();
+      });
+   }
+   cmstopTabs({tabStyle:'tabs-focus',title: '#tab-title-1',cont: "#tab-cont-1"});
+   cmstopTabs({tabStyle:'tabs-focus',title: '#tab-title-2',cont: "#tab-cont-2"});
+   cmstopTabs({tabStyle:'tabs-focus',title: '#tab-title-6',cont: "#tab-cont-6"});
+   cmstopTabs({tabStyle:'tabs-focus',title: '#tab-title-7',cont: "#tab-cont-7"});
+   cmstopTabs({tabStyle:'tabs-focus',title: '#tab-title-8',cont: "#tab-cont-8"});
+   cmstopTabs({tabStyle:'tabs-focus',title: '#tab-title-9',cont: "#tab-cont-9"});
+  </script> 
+ 
+<script type="text/javascript" src="http://img.cankaoxiaoxi.com/js/lib/jquery.lightbox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/imagesbox.css" media="screen" />
+<script type="text/javascript">
+
+$(function(){
+
+        if($.trim($('#ctrlfscont p:last').html())=='&nbsp;')
+        {
+                $('#ctrlfscont p:last').remove();
+         }
+  //////////设置参考消息图标位置
+  if($('#pagination').length)
+  {
+    var tab = document.getElementById('pagination');
+    var cells = tab.rows.item(0).cells.length;
+    var cell = cells-3;
+      if($('#pagination a:eq('+cell+')').hasClass('now'))
+      {
+               
+    //设置参考消息图标位置
+    $('#ctrlfscont center').wrap('<p></p>');
+       }
+  }
+  else
+  {
+    $('#ctrlfscont center').wrap('<p></p>');
+  }
+  
+  content = $('#ctrlfscont').html();
+  var font = $.cookie(COOKIE_PRE+'font');//根据cookie设置字体大小并初始化按钮
+  if(font){
+    $('#ctrlfssummary,#ctrlfscont').addClass(font);
+    if(font == 'fs-big'){
+      $('#bfont').addClass('cor-current');
+      $('#sfont').removeClass('cor-current');
+    }
+  }
+  
+  $('form[id^="vote"]').each(function(){
+    var contentid = $(this).find('>input[name="contentid"]:hidden').val();
+    var maxoptions = $(this).find('>input[name="maxoptions"]:hidden').val();
+    $(this).submit(function(){
+      var checkeds = $(this).find('input:checked').length;
+      if(checkeds == 0){
+        alert('请选择投票选项');
+        return false;
+      }
+      if(maxoptions){
+        if(checkeds > parseInt(maxoptions)){
+          alert('最多允许选'+maxoptions+'项');
+          return false;
+        }
+      }
+    })
+  })
+})
+
+function holdpic(){//控制内容区域的的图片大小并为过大的图片添加查看原图
+  var options = {
+    imageLoading:IMG_URL+'js/lib/lightBox/lightbox-ico-loading.gif',
+    imageBtnPrev:IMG_URL+'js/lib/lightBox/lightbox-btn-prev.gif',
+    imageBtnNext:IMG_URL+'js/lib/lightBox/lightbox-btn-next.gif',
+    imageBtnClose:IMG_URL+'js/lib/lightBox/lightbox-btn-close.gif',
+    imageBlank:IMG_URL+'js/lib/lightBox/lightbox-blank.gif'
+  };
+  $('#ctrlfscont').find('img').each(function(){
+    var img = this;
+    if (img.width>608) {
+      img.style.width = '600px';
+      $(img).removeAttr('height');
+     /*
+      var aTag = document.createElement('a');
+      aTag.href = img.src;
+      $(aTag).addClass('bPic')
+      .insertAfter(img).append(img)
+      .lightBox(options);
+*/
+    }
+  });
+}
+$(window).load(function(){
+  holdpic();
+});
+function copyToClipboard(txt) {  //复制网址
+  if(window.clipboardData) {
+    window.clipboardData.clearData();
+    window.clipboardData.setData("Text", txt);
+    alert("复制链接成功！");
+  } else if(navigator.userAgent.indexOf("Opera") != -1) {
+    window.location = txt;
+  } else if (window.netscape) {
+    try {
+      netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+    } catch (e) {
+      alert(" 被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将 'signed.applets.codebase_principal_support'设置为'true'");
+    }
+    var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+    if (!clip)
+    return;
+    var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+    if (!trans)
+    return;
+    trans.addDataFlavor('text/unicode');
+    var str = new Object();
+    var len = new Object();
+    var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+    var copytext = txt;
+    str.data = copytext;
+    trans.setTransferData("text/unicode",str,copytext.length*2);
+    var clipid = Components.interfaces.nsIClipboard;
+    if (!clip)
+    return false;
+    clip.setData(trans,null,clipid.kGlobalClipboard);
+    alert("复制链接成功！");
+  }
+}
+
+function changeFont(t){ //改变字号
+  //var tosmall = (t.innerHTML=='小')?true:false;
+  var tosmall = ($(t).hasClass("fz-12"))?true:false;
+  if(tosmall&&$(t).hasClass('cor-current')) return;
+  $('.cor-current').removeClass('cor-current');
+  $(t).addClass('cor-current');
+  $.cookie(COOKIE_PRE+'font',tosmall?'fs-small':'fs-big',{domain:COOKIE_DOMAIN,path:COOKIE_PATH,expires:300});
+  $('#ctrlfssummary,#ctrlfscont').removeClass(tosmall?'fs-big':'fs-small').addClass(tosmall?'fs-small':'fs-big');
+}
+
+var xdurl = location.protocol + '//' + location.host + '/xd.html';
+WB.core.load(['connect', 'client', 'widget.base', 'widget.atWhere'], function() {
+  var cfg = {
+    key: '1148914719',
+    xdpath: xdurl
+  };
+  WB.connect.init(cfg);
+  WB.client.init(cfg);
+  var $E = function(s){
+      return document.getElementById(s);    
+    };
+  
+  //user card widget
+  WB.widget.atWhere.searchAndAt(document.getElementById("ctrlfscont"));
+});
+//添加图说
+
+</script> 
+<!-- 专栏内容提取 --> 
+<script type="text/javascript" src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/article-show.js"></script>  
+<script type="text/javascript" src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/mood-show.js"></script>
+
+<script>
+$(function() {
+  $('.article-content a').each(function(i,a){
+    var $a = $(a);
+    if(!$a.attr('target')) 
+    {
+      $a.attr('target','_blank');
+    }
+  });
+});
+</script>
+<script type="text/javascript">
+  // bShare划词分享
+  if(typeof(bShare) == 'undefined'){
+    document.write('<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#uuid=&style=-1"><\/script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareDrag.js?bp=qqmb,sinaminiblog,qzone,kaixin001,bsharesync&text=分享到"><\/script><script type="text/javascript">$(".BSHARE_POP img").addClass("BSHARE_IMAGE");<\/script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareMM.js#shareClass=BSHARE_IMAGE"><\/script>');
+  }else{
+    document.write('<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareDrag.js?bp=qqmb,sinaminiblog,qzone,kaixin001,bsharesync&text=分享到"><\/script><script type="text/javascript">$(".BSHARE_POP img").addClass("BSHARE_IMAGE");<\/script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareMM.js#shareClass=BSHARE_IMAGE"><\/script>');
+  }
+</script>
+
+<!--收藏本站 start-->
+ <style>
+ .scrollBtn{position:fixed; bottom:330px; left:50%; margin-left:480px; width:65px;}
+ .scrollBtn li{float:left; height:65px; margin-bottom:5px; overflow:hidden;}
+ .scrollBtn li a{display:block; width:65px; height:65px;}
+ .tShare{background:url(http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/sc.png)  0 0 no-repeat;}
+ .snShare{background:url(http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/sc.png)  0 -59px no-repeat;}
+ .goTop{background:url(http://upload.cankaoxiaoxi.com/2014/1219/1418956333718.jpg)  0 0 no-repeat;}
+ .toIndex{background:url(http://upload.cankaoxiaoxi.com/2014/1219/1418958309914.jpg)  0 0 no-repeat;}
+/*
+ .weixin{text-align:center; position:fixed; right:10px; top:345px; background:url(http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/wx_bg.png) 0 0 repeat;}
+ .weixin p{font-size:12px; color:#fff; line-height:20px; padding:3px 0}
+ .wx_wrap{position:relative; padding:0 7px; }
+ .wx_close{position:absolute; right:7px; top:5px; width:16px; height:16px;}
+ */
+ </style>
+ <script>
+function addPv(url){
+    nElem = "<iframe style='display:none' src='" + url + "'></iframe>";
+    $('body').append(nElem);
+}
+
+ </script>
+
+ <!--收藏本站 start-->
+ <script>
+function addPv(url){
+    nElem = "<iframe style='display:none' src='" + url + "'></iframe>";
+    $('body').append(nElem);
+}
+
+window.onscroll = function () {
+    var winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+    if(winScroll >= 700){
+        $('#goTop').show();
+    }else{
+        $('#goTop').hide();
+    }
+
+    var ch = document.documentElement.clientHeight;//窗口的高度
+    var at = document.getElementById("leftShare").offsetTop;//元素离页面顶部的高度
+   
+    if(winScroll >= (at - ch + 205)){
+      
+      $('#leftScroll').show();
+
+    }else{
+      $('#leftScroll').hide();
+    }
+}
+
+ </script>
+ <div id="scrollBtn" class="scrollBtn">
+     <ul class="ov">
+        <li><a title="参考消息" class="toIndex" href="http://www.cankaoxiaoxi.com?toindex=1" target="_blank" rel="sidebar"></a></li>
+        <li style="display:none;" id="goTop"><a title="返回顶部" onClick="javascript:window.scrollTo(0, 0);return false" class="goTop" href="#"></a></li>
+    </ul>
+</div>
+ <!--收藏本站 end-->
+<!--悬浮微信 start-->
+<!--<div class="weixin">
+    <div class="wx_wrap">
+        <p style="text-align:left;">参考消息微信</p>
+        <img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/wx.jpg" alt="扫描关注参考消息微信" width="95"/>
+        <p style="padding-bottom:0;">扫描关注</p>
+        <p style="padding-top:0;">加入读者俱乐部</p>
+        <span class="wx_close"><img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/images/wx_close.png" alt="点击关闭"/></span>
+    </div>
+</div>-->
+<!--悬浮微信 end-->
+
+<style>
+.footer{border-top: 1px solid #aaa;}
+.cor666 a{color: #666;}
+</style>
+ <div class="footer column mar-t-20">
+       
+            
+        <p class="t-c lh-40 cor666"><a href="http://www.cankaoxiaoxi.com/about/" title="">关于参考消息</a> | <a href="http://www.cankaoxiaoxi.com/about/copyright.shtml" title="">版权声明</a> | <a href="http://www.cankaoxiaoxi.com/about/advertise.shtml" title="">广告服务</a> | <a href="http://www.cankaoxiaoxi.com/about/contact.shtml" title="">联系我们</a> | <a href="http://www.cankaoxiaoxi.com/about/customize.shtml" title="">订阅《参考消息》</a> | <a href="http://www.cankaoxiaoxi.com/about/join.shtml" title="">参考消息网招聘</a> | <a href="http://www.cankaoxiaoxi.com/about/navigation.shtml" title="">网站导航</a></p>
+        <p class="t-c" style="line-height:30px;"><span class="cor999 mar-r-5">国新网备2012001</span><a href="http://upload.cankaoxiaoxi.com/2011/1215/1323944598965.jpg" class="cor999">互联网出版许可证（新出网证(京)字147号）</a><span class="cor999 "><a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" class="cor999">京ICP备11013708</a> 京公网安备110402440030</span></p>
+        <p class="t-c cor999" style="line-height:20px;">- 参考消息报社 版权所有 - </p>
+    </div>
+
+<!--参考消息全站通用-悬浮120*270-百度联盟-->
+<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "931630";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+
+<!-- 96409：参考消息全站通发富媒体广告 类型：固定广告位 尺寸：270x200-->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 96409;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afp.csbew.com/";
+//]]></script>
+<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+
+<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "1022710";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+
+<!--图上广告-->
+</body>
+</html>
