@@ -10,7 +10,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
 
-public class Demo {
+public class HTMLTimeDemo {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		TimeExtract timeExtract = new TimeExtract();
