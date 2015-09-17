@@ -15,22 +15,6 @@
 	</properties>
 
 	<dependencies>
-		<!-- Json包 -->
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-annotations</artifactId>
-			<version>${jackson.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-core</artifactId>
-			<version>${jackson.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-databind</artifactId>
-			<version>${jackson.version}</version>
-		</dependency>
 		<!-- 日志包 -->
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
@@ -78,7 +62,24 @@
 
 	</build>
 
-	<!-- <repositories> <repository> <id>zxsoft-nexus</id> <url>http://192.168.3.23:18081/nexus/content/groups/public/</url> 
-		</repository> </repositories> -->
+	<repositories>
+		<repository>
+			<id>zxsoft-nexus</id>
+			<url>http://192.168.3.23:18081/nexus/content/groups/public/</url>
+		</repository>
+	</repositories>
+
+	<!-- 部署仓库 -->
+	<distributionManagement>
+		<snapshotRepository>
+			<id>zxsoft-snapshots</id>
+			<name>Nexus Snapshot Repository</name>
+			<url>http://192.168.3.23:18081/nexus/content/repositories/snapshots/</url>
+		</snapshotRepository>
+		<repository>
+			<id>sentiment</id>
+			<url>http://192.168.3.23:18081/nexus/content/repositories/sentiment</url>
+		</repository>
+	</distributionManagement>
 
 </project>

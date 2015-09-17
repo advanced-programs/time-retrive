@@ -14,6 +14,7 @@ public class HTMLTimeDemo {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		TimeExtract timeExtract = new TimeExtract();
+		// 读取HTML文件
 		String html = "";
 		try (BufferedReader br = new BufferedReader(new FileReader(new File("test-data/test")));) {
 			String str = "";
@@ -22,9 +23,10 @@ public class HTMLTimeDemo {
 			}
 		}
 		List<MatchedTime> times = timeExtract.extractInput(html);
-		for (MatchedTime time : times) {
-			System.out.println(time.getTimeType() + "  ,  " + time.getRawString());
-		}
+		System.out.println(times.get(0).getTimeType() + "  ,  " + times.get(0).getRawString());
+		//		for (MatchedTime time : times) {
+		//			System.out.println(time.getTimeType() + "  ,  " + time.getRawString());
+		//		}
 	}
 
 }
